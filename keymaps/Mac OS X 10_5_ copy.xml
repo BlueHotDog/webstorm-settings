@@ -11,6 +11,9 @@
     <keyboard-shortcut first-keystroke="shift insert" />
     <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
   <action id="$SelectAll">
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
@@ -42,6 +45,9 @@
   </action>
   <action id="Editor Paste">
     <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
   <action id="Editor SelectAll">
     <keyboard-shortcut first-keystroke="ctrl a" />
@@ -151,6 +157,9 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="ctrl meta left" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
