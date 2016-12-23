@@ -23,6 +23,12 @@
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="ctrl 1" />
   </action>
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
@@ -101,6 +107,9 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoBookmark3" />
@@ -142,6 +151,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
   <action id="MethodUp" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="NextEditorTab" />
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
@@ -161,6 +173,9 @@
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl meta l" />
   </action>
+  <action id="RemoteHost.NewRemoteItem">
+    <keyboard-shortcut first-keystroke="meta n" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
@@ -174,8 +189,14 @@
     <keyboard-shortcut first-keystroke="ctrl 3" />
   </action>
   <action id="SelectNextOccurrence" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="ShowNavBar">
     <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="Uml.NewElement">
+    <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="UnselectPreviousOccurrence" />
   <action id="Vcs.QuickListPopupAction" />
