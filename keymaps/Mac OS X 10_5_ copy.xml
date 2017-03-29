@@ -198,10 +198,20 @@
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
   <action id="ImplementMethods" />
+  <action id="IpnbMoveCellDownAction" />
+  <action id="IpnbMoveCellUpAction" />
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
   </action>
   <action id="MethodUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="shift meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="shift meta up" />
+  </action>
+  <action id="MoveStatementDown" />
+  <action id="MoveStatementUp" />
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -236,8 +246,10 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
+  <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowLeft" />
   <action id="ResizeToolWindowRight" />
+  <action id="ResizeToolWindowUp" />
   <action id="SafeDelete" />
   <action id="SaveAll">
     <keyboard-shortcut first-keystroke="ctrl s" />
