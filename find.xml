@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[ruadan_single_repo] - .../backoffice/app/assets/ui/views/pages/player/components/simulator/helpers/deserializers/nodes'" />
-    <option name="defaultScopeName" value="Directory '[ruadan_single_repo] - .../backoffice/app/assets/ui/views/pages/player/components/simulator/helpers/deserializers/nodes'" />
+    <option name="customScope" value="File '[ruadan_single_repo] - .../backoffice/app/assets/ui/views/pages/player/components/simulator/helpers/deserializers/nodes/comment_node.js'" />
+    <option name="defaultScopeName" value="File '[ruadan_single_repo] - .../backoffice/app/assets/ui/views/pages/player/components/simulator/helpers/deserializers/nodes/comment_node.js'" />
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '[ruadan_single_repo] - .../backoffice/app/assets/ui/views/pages/player/components/simulator/helpers/deserializers/nodes'" />
+    <option name="SEARCH_SCOPE" value="File '[ruadan_single_repo] - .../backoffice/app/assets/ui/views/pages/player/components/simulator/helpers/deserializers/nodes/comment_node.js'" />
   </component>
 </application>
