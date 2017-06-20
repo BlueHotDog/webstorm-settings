@@ -1,17 +1,22 @@
 <scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <option name="FONT_SCALE" value="1.0833334" />
   <metaInfo>
     <property name="created">2016-09-23T22:53:07</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2016.2.3.0.0</property>
-    <property name="modified">2017-05-11T12:13:50</property>
+    <property name="modified">2017-06-20T16:18:56</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="13" />
-  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <attributes>
+    <option name="ELIXIR_ALIAS">
+      <value>
+        <option name="FOREGROUND" value="dfddba" />
+      </value>
+    </option>
     <option name="ELIXIR_ATOM">
       <value>
         <option name="FOREGROUND" value="c196d8" />
