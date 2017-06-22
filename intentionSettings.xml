@@ -6,5 +6,6 @@
     <ignoreAction name="TypeScript/Make 'public'" />
     <ignoreAction name="TypeScript/Remove type declaration" />
     <ignoreAction name="TypeScript/Specify variable type explicitly" />
+    <ignoreAction name="Kotlin/Replace camel-case name with spaces" />
   </component>
 </application>

@@ -2,6 +2,12 @@
   <JSCodeStyleSettings>
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
   </JSCodeStyleSettings>
+  <codeStyleSettings language="Haml">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
     <option name="KEEP_SIMPLE_BLOCKS_IN_ONE_LINE" value="true" />
