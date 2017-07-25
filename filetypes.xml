@@ -7,7 +7,6 @@
       <mapping pattern=".Dockerignore" type="PLAIN_TEXT" />
       <mapping ext="mst" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
-      <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
