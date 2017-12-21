@@ -1,13 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern=".yarn-cache.tgz" type="PLAIN_TEXT" />
       <mapping pattern=".exenv" type="PLAIN_TEXT" />
       <mapping pattern=".Dockerignore" type="PLAIN_TEXT" />
-      <mapping pattern=".yarn-cache.tgz" type="PLAIN_TEXT" />
-      <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="mst" type="PLAIN_TEXT" />
+      <mapping ext="dev" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
